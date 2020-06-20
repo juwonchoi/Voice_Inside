@@ -32,15 +32,14 @@
 - Flask 웹프레임워크를 활용해 음성을 업로드 받아 감정결과를 보여주는 웹서비스 구현
 
 ## 프로젝트 일정
-
-<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/schedule.PNG" width="40%" height="30%" ></img>
+<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/schedule.PNG" width="40%" height="60%" ></img>
 ## 구조도
 ### 전체 구조도
-<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/all_structure.PNG" width="40%" height="30%" ></img>
+<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/all_structure.PNG" width="40%" height="50%" ></img>
 ### 파형 분석 구조
-<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/wave_sturcture.PNG" width="40%" height="30%" ></img>
+<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/wave_sturcture.PNG" width="40%" height="50%" ></img>
 ### 텍스트 분석 구조
-<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/text_structure.PNG" width="40%" height="30%"></img>
+<img src="https://github.com/juwonchoi/Voice_Inside/blob/master/screenshot/text_structure.PNG" width="40%" height="50%"></img>
 ## 파일 설명
 - flask : 프로젝트의 결과물인 웹 서비스가 실행되는 폴더
 - model : 웹 서비스 전 모델을 학습시키고 피팅한 노트북 파일이 있는 폴더
