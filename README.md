@@ -15,7 +15,7 @@
   
   
 ## 시연영상
-- 유튜브링크 : 
+- 유튜브링크 : https://www.youtube.com/watch?v=VeG1D5UMWlc
   
   
 ## 구현 기술
